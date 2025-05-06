@@ -282,7 +282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44d70cc20219cd84593f67d248eafe36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Offset: {x: 0.7, y: 0.75, z: 0}
+  Offset: {x: 0.7, y: 0.6, z: 0.54}
   ApplyAfter: 0
   PreserveComposition: 0
 --- !u!114 &113645771
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_StreamingVersion: 20241001
   m_LegacyPriority: 0
   Target:
-    TrackingTarget: {fileID: 0}
+    TrackingTarget: {fileID: 2078791208}
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
@@ -427,13 +427,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 113645768}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.08093052, y: 0.32149607, z: -0.027590316, w: 0.94304264}
+  m_LocalRotation: {x: 0.08529554, y: 0.069501005, z: -0.0059644445, w: 0.9939108}
   m_LocalPosition: {x: 0.00000039736426, y: 0, z: -3.3999996}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1820083169}
-  m_LocalEulerAnglesHint: {x: 9.81, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 9.81, y: 8, z: 0}
 --- !u!1 &158365265
 GameObject:
   m_ObjectHideFlags: 0
@@ -1281,7 +1281,7 @@ Transform:
   m_GameObject: {fileID: 673294373}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.042, z: 0}
+  m_LocalPosition: {x: 0, y: -0.047, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2422,8 +2422,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1116166033}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.037717223, y: 0.89416385, z: -0.07673582, w: 0.4394998}
-  m_LocalPosition: {x: -2.3664086, y: 7.500034, z: 16.729712}
+  m_LocalRotation: {x: 0.056095563, y: 0.75194573, z: -0.06453056, w: 0.6536565}
+  m_LocalPosition: {x: -1.5092616, y: 7.260221, z: 16.58053}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6675,7 +6675,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2fc9994d7e65944928280da914294263, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: -1.071
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2fc9994d7e65944928280da914294263, type: 3}
       propertyPath: m_LocalPosition.z
