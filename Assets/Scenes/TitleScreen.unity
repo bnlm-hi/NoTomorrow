@@ -1851,7 +1851,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newGameLevel: Chapter 1
-  levelToLoad: Chapter 1
   noSavedGameDialogue: {fileID: 1889448109}
 --- !u!4 &737102908
 Transform:
