@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Chapter 2.unity
     guid: 4b8fed8ed2fea4d57ab1905d84d38322
   - enabled: 1
+    path: Assets/Scenes/Chapter 3.unity
+    guid: 4718a082c34504460906d161c3fcc5ae
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4.unity
+    guid: 140ef3e9523b4436ea4012281b2a430f
+  - enabled: 1
     path: Assets/Scenes/SewerScene.unity
     guid: bb07cb368787448a2b6360ec638c94ae
   m_configObjects:
