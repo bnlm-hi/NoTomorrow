@@ -8846,7 +8846,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 9916660cb7d1d4511ade3719b6f4e663, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 113e3f37c7c044c6ea19e011bc41d26c, type: 2}
+      objectReference: {fileID: 2100000, guid: 1c9b5aab730594da0af89e4dd7df134f, type: 2}
     - target: {fileID: 919132149155446097, guid: 9916660cb7d1d4511ade3719b6f4e663, type: 3}
       propertyPath: m_Name
       value: corps
