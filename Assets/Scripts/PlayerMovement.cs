@@ -84,6 +84,7 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
         }
 
-        animator.SetBool("IsWalking", walkSpeed !=0);
+        animator.SetBool("IsRunning", isRunning = true);
+        
     }
 }
